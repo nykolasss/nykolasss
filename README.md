@@ -1,6 +1,6 @@
 Olá! 👋
 
-Meu nome é Nykolas e sou estudante de Engenharia de Software na Católica SC. Tenho interesse em desenvolvimento de software, especialmente na área de backend, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+Meu nome é Nykolas e sou estudante de Engenharia de Software na Católica SC. Tenho interesse em desenvolvimento de software, especialmente na área de frontend, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 🚀 Atualmente
 
