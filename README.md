@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**nykolasss/nykolasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nykolas e sou estudante de Engenharia de Software na Católica SC. Tenho interesse em desenvolvimento de software, especialmente na área de backend, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+🚀 Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudando Engenharia de Software.
+
+Desenvolvendo projetos acadêmicos e pessoais.
+
+Explorando conceitos de programação, backend e Inteligência Artificial.
+
+💻 Tecnologias e ferramentas
+
+Linguagens: Java, Python, C++ e JavaScript.
+
+Web: HTML e CSS.
+
+📫 Contato
+
+LinkedIn: [Meu perfil](https://www.linkedin.com/in/nykolaskopp/)
+
+E-mail: Nyko24@outlook.com
